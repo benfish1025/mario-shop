@@ -1,0 +1,87 @@
+  {"categories": [
+    {
+      "name": "武器",
+      "items": [
+        {
+          "name": "锈铁剑",
+          "image": "/images/rusty_sword.png",
+          "price": "5"
+        },
+        {
+          "name": "石中之刃重剑",
+          "image": "/images/broad_sword.png",
+          "price": "25"
+        },
+        {
+          "name": "武士刀",
+          "image": "/images/katana.png",
+          "price": "50"
+        },
+        {
+          "name": "弯月刀",
+          "image": "/images/scimitar.png",
+          "price": "60"
+        },
+        {
+          "name": "长柄佩剑",
+          "image": "/images/sabre.png",
+          "price": "70"
+        },
+        {
+          "name": "万剑归宗",
+          "image": "/images/divine_sword.png",
+          "price": "250"
+        },
+        {
+          "name": "石矛",
+          "image": "/images/basic_spear.png",
+          "price": "5"
+        },
+        {
+          "name": "红耀石魔杖",
+          "image": "/images/elven_wand.png",
+          "price": "100"
+        }
+      ]
+    },
+    {
+      "name": "盔甲",
+      "items": [
+        {
+          "name": "铁头盔",
+          "image": "/images/rusty_helmet.png",
+          "price": "7"
+        },
+        {
+          "name": "铁护甲",
+          "image": "/images/plate_armor.png",
+          "price": "75"
+        },
+        {
+          "name": "金护甲",
+          "image": "/images/golden_armor.png",
+          "price": "200"
+        }
+      ]
+    },
+    {
+      "name": "魔药",
+      "items": [
+        {
+          "name": "毒药水",
+          "image": "/images/ruby_potion.png",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "name": "杂货",
+      "items": [
+        {
+          "name": "树莓派",
+          "image": "/images/raspberry_pie.png",
+          "price": 1
+        }
+      ]
+    }
+  ]}
