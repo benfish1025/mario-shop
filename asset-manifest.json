@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/mario-shop/static/css/main.23b91900.chunk.css",
-    "main.js": "/mario-shop/static/js/main.7ef608e0.chunk.js",
-    "main.js.map": "/mario-shop/static/js/main.7ef608e0.chunk.js.map",
+    "main.js": "/mario-shop/static/js/main.166e5a33.chunk.js",
+    "main.js.map": "/mario-shop/static/js/main.166e5a33.chunk.js.map",
     "runtime-main.js": "/mario-shop/static/js/runtime-main.051a0f1c.js",
     "runtime-main.js.map": "/mario-shop/static/js/runtime-main.051a0f1c.js.map",
     "static/css/2.f8dfb649.chunk.css": "/mario-shop/static/css/2.f8dfb649.chunk.css",
-    "static/js/2.99789ae5.chunk.js": "/mario-shop/static/js/2.99789ae5.chunk.js",
-    "static/js/2.99789ae5.chunk.js.map": "/mario-shop/static/js/2.99789ae5.chunk.js.map",
+    "static/js/2.ccc102cc.chunk.js": "/mario-shop/static/js/2.ccc102cc.chunk.js",
+    "static/js/2.ccc102cc.chunk.js.map": "/mario-shop/static/js/2.ccc102cc.chunk.js.map",
     "static/js/3.fcda1795.chunk.js": "/mario-shop/static/js/3.fcda1795.chunk.js",
     "static/js/3.fcda1795.chunk.js.map": "/mario-shop/static/js/3.fcda1795.chunk.js.map",
     "index.html": "/mario-shop/index.html",
     "static/css/2.f8dfb649.chunk.css.map": "/mario-shop/static/css/2.f8dfb649.chunk.css.map",
     "static/css/main.23b91900.chunk.css.map": "/mario-shop/static/css/main.23b91900.chunk.css.map",
-    "static/js/2.99789ae5.chunk.js.LICENSE.txt": "/mario-shop/static/js/2.99789ae5.chunk.js.LICENSE.txt",
+    "static/js/2.ccc102cc.chunk.js.LICENSE.txt": "/mario-shop/static/js/2.ccc102cc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mario-shop/static/media/FZXIANGSU18.810de057.TTF"
   },
   "entrypoints": [
     "static/js/runtime-main.051a0f1c.js",
     "static/css/2.f8dfb649.chunk.css",
-    "static/js/2.99789ae5.chunk.js",
+    "static/js/2.ccc102cc.chunk.js",
     "static/css/main.23b91900.chunk.css",
-    "static/js/main.7ef608e0.chunk.js"
+    "static/js/main.166e5a33.chunk.js"
   ]
 }
