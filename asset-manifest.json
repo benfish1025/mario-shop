@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mario-shop/static/css/main.23b91900.chunk.css",
-    "main.js": "/mario-shop/static/js/main.65eed59a.chunk.js",
-    "main.js.map": "/mario-shop/static/js/main.65eed59a.chunk.js.map",
+    "main.js": "/mario-shop/static/js/main.7ef608e0.chunk.js",
+    "main.js.map": "/mario-shop/static/js/main.7ef608e0.chunk.js.map",
     "runtime-main.js": "/mario-shop/static/js/runtime-main.051a0f1c.js",
     "runtime-main.js.map": "/mario-shop/static/js/runtime-main.051a0f1c.js.map",
     "static/css/2.f8dfb649.chunk.css": "/mario-shop/static/css/2.f8dfb649.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.f8dfb649.chunk.css",
     "static/js/2.99789ae5.chunk.js",
     "static/css/main.23b91900.chunk.css",
-    "static/js/main.65eed59a.chunk.js"
+    "static/js/main.7ef608e0.chunk.js"
   ]
 }
