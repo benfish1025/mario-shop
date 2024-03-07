@@ -2,6 +2,7 @@
   "name": "mario-shop",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://benfish1025.github.io/mario-shop/",
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
     "@testing-library/jest-dom": "^4.2.4",
